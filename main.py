@@ -1,3 +1,5 @@
+# -- coding: utf-8 --
+
 from devices import Sensors
 from datetime import datetime
 import time
